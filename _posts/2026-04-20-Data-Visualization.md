@@ -54,7 +54,7 @@ A pair plot displays all the pairwise relationships between variables in a datas
 
 <figure id = "pair-plots">
   <img src="/assets/images/2026-04-20-Data-Visualization/pair_plot_iris.png" alt="Pair Plots">
-  <figcaption>Fig2: A pair plot for the Iris dataset. For example, we can see that the petal\_width and petal\_length are highly correlated. On the contrary, sepal\_length and petal\_width are not correlated, as the points do not show any clear relationship.</figcaption>
+  <figcaption>Fig2: A pair plot for the Iris dataset. For example, we can see that the petal_width and petal_length are highly correlated. On the contrary, sepal_length and petal_width are not correlated, as the points do not show any clear relationship.</figcaption>
 </figure>
 
 In [fig2](#pair-plots), we can see how such a plot looks like. Diagonal cells show the distribution of each variable, and off-diagonal cells show scatter plots of each pair of variables. 
